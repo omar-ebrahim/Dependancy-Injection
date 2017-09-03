@@ -1,6 +1,6 @@
-﻿using DependancyInjection.Functions;
+﻿using DependencyInjection.Functions;
 
-namespace DependancyInjection.Handlers
+namespace DependencyInjection.Handlers
 {
     public class Handler : IHandler
     {

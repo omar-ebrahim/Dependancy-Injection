@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DependancyInjection.Functions
+namespace DependencyInjection.Functions
 {
     public class Adder : IAdder
     {

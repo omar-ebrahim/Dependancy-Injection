@@ -1,4 +1,4 @@
-﻿namespace DependancyInjection.Functions
+﻿namespace DependencyInjection.Functions
 {
     public interface IAdder
     {

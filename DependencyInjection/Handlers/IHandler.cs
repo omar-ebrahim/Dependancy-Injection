@@ -1,4 +1,4 @@
-﻿namespace DependancyInjection.Handlers
+﻿namespace DependencyInjection.Handlers
 {
     public interface IHandler
     {

@@ -1,10 +1,10 @@
-﻿using DependancyInjection.Functions;
-using DependancyInjection.Handlers;
+﻿using DependencyInjection.Functions;
+using DependencyInjection.Handlers;
 using Ninject;
 using System;
 using System.Reflection;
 
-namespace DependancyInjection
+namespace DependencyInjection
 {
     public class Calculator
     {

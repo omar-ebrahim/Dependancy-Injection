@@ -1,8 +1,8 @@
-﻿using DependancyInjection.Functions;
-using DependancyInjection.Handlers;
+﻿using DependencyInjection.Functions;
+using DependencyInjection.Handlers;
 using Ninject.Modules;
 
-namespace DependancyInjection.Infrastructure.Ninject
+namespace DependencyInjection.Infrastructure.Ninject
 {
     public class Bindings : NinjectModule
     {
